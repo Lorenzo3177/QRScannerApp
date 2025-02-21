@@ -15,7 +15,7 @@
 ### 1. Склонируйте репозиторий
 Если ещё не сделали этого, клонируйте репозиторий на локальную машину:
 ```sh
-git clone <URL_репозитори>
+git clone <https://github.com/Lorenzo3177/QRScannerApp.git>
 ```
 ### 2. Откройте проект в Visual Studio Code
 Откройте проект в Visual Studio Code или другой IDE, которая поддерживает работу с C#.
